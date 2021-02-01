@@ -1,4 +1,4 @@
-## Aplicación del Clima - Curso Node
+## Aplicación del Clima
 
 
 Antes de empezar a usar la aplicación. Se debe ejecutar ```npm install``` para instalar las librerías
